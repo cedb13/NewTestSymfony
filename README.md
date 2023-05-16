@@ -1,1 +1,1 @@
-# TestBlogSymfony => NewTest SYmfony
+# TestBlogSymfony => NewTestSYmfony
